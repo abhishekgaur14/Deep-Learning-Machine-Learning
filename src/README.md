@@ -1,7 +1,7 @@
 #Description of programs
 - <b>mnist_loader.py</b>: Program to load the MNIST dataset and return training, validation and test set.
 - <b>neural_net.py</b>: Very basic neural network written in numpy.
-<br>For example, to run this for MNIST digit recognition, execute the following commands from the **"src"** folder in Python shell.<br>
+<br>For example, to run this for MNIST digit recognition, execute the following commands from the **"src"** folder in Python shell.
 <br>>>> import mnist_loader
 <br>>>> training_data, validation_data, test_data = mnist_loader.load_data_wrapper()
 <br>>>> import neural_net
