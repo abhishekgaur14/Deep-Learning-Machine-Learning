@@ -10,3 +10,6 @@
 ```
 >arguments to constructor are number of neurons in each layer.<br>
 >arguments to function:<i> (training set, number of epochs, mini-batch size, learning rate, test set)</i>
+
+- <b>mnist_svm.py</b>: SVM classifier for MNIST digit classification.
+To execute, simply execute the python script.
