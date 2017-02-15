@@ -8,5 +8,5 @@
 >>> import neural_net
 >>> net.SGD(training_data, 30, 10, 3.0, test_data=test_data)
 ```
-* arguements to constructor are number of neurons in each layer.
-* arguements to function:<i> (training set, number of epochs, mini-batch size, learning rate, test set)</i>
+# arguements to constructor are number of neurons in each layer.<br>
+# arguements to function:<i> (training set, number of epochs, mini-batch size, learning rate, test set)</i>
